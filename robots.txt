@@ -1,0 +1,15 @@
+# Robots.txt for VISION WEB TECH
+# https://visionwebtech.com
+
+User-agent: *
+Allow: /
+Allow: /styles/
+Allow: /scripts/
+Allow: /assets/
+
+# Prevent crawlers from indexing isolated server scripts or error states
+Disallow: /server.ps1
+Disallow: /404.html
+
+# XML Sitemap Location
+Sitemap: https://visionwebtech.com/sitemap.xml
