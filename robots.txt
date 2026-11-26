@@ -1,5 +1,5 @@
 # Robots.txt for VISION WEB TECH
-# https://visionwebtech.com
+# https://visionwebtech.dpdns.org
 
 User-agent: *
 Allow: /
@@ -12,4 +12,4 @@ Disallow: /server.ps1
 Disallow: /404.html
 
 # XML Sitemap Location
-Sitemap: https://visionwebtech.com/sitemap.xml
+Sitemap: https://visionwebtech.dpdns.org/sitemap.xml
